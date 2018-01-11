@@ -1,0 +1,30 @@
+1.ls – directory listing.
+2.ls -al – formatted listing with hidden files.
+3.cd dir - change directory to dir.
+4.cd – change to home.
+5.pwd – show current directory.
+6.mkdir dir – create a directory dir.
+7.rm file – delete file.
+8.rm -r dir – delete directory dir.
+9.cp – copy files and directories 
+10. mv – move (rename) files
+11. history – prints recently used commands
+12. poweroff – power off the system
+13. find ­ search for files in a directory hierarchy
+14. -l = gives the containt in a long format. 
+ctrl+alt+f1 = for going to command line and login.
+alt+ctrl+f7 = To going GUI.
+alt+ctrl+T = open terminal.
+
+15.shut down system=1. sodo -i(super user login)
+2. give password.
+3. halt(shut down)
+or
+4.shutdown -h now
+5. shutdown -h 2(shutdown after 2 minut).
+
+
+16.man ls= list information about the files(the current directory by default).
+
+
+
