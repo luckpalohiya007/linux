@@ -1,13 +1,17 @@
-ls – directory listing.
-ls -al – formatted listing with hidden files.
+ls â€“ directory listing.
+ls -al â€“ formatted listing with hidden files.
 cd dir - change directory to dir.
-cd – change to home.
-pwd – show current directory.
-mkdir dir – create a directory dir.
-rm file – delete file.
-rm -r dir – delete directory dir.
-cp – copy files and directories 
- mv – move (rename) files
- history – prints recently used commands
- poweroff – power off the system
- find ­ search for files in a directory hierarchy 
+cd â€“ change to home.
+pwd â€“ show current directory.
+mkdir dir â€“ create a directory dir.
+rm file â€“ delete file.
+rm -r dir â€“ delete directory dir.
+cpÂ â€“Â copyÂ filesÂ andÂ directoriesÂ 
+ mvÂ â€“Â moveÂ (rename)Â files
+ historyÂ â€“Â printsÂ recentlyÂ usedÂ commands
+ poweroffÂ â€“Â powerÂ offÂ theÂ system
+ findÂ Â­Â searchÂ forÂ filesÂ inÂ aÂ directoryÂ hierarchyÂ 
+ rmdir -remove directory
+ cd ~ =brings you to your home directory
+ clear => it will clear the screen
+ ls-version => it is show version
