@@ -1,0 +1,12 @@
+1.ls -a = In Linux, hidden files start with . (dot) symbol and they are not visible in the regular directory.
+        The (ls -a) command will enlist the whole list of the current directory including the hidden files.
+2.ls --version = It checks the version of ls command.
+3.rmdir <dirname> = remove directory.
+4.rmdir -p =This command will delete a directory including its sub-directories all at once. In below picture, all sub-directories have been deleted with 'rmdir -p' command.
+5.tail <file name> =
+6.tail -n<number> <file name>  = The 'tail -n' option displays the specified number of lines.
+7.tail -c<number> <file name> = The 'tail -c' option displays the specified number of bytes from the last.
+8. cat <fileName> = The 'cat' command can be used to display the content of a file.
+9. cat > <file name> = The 'cat' command can be used to create a new file with greater than sign (>). press 'ctrl+d' and your file will be saved.
+10. cat >> (file name) = The 'cat' command with double greater than sign (>>) append (add something in the last of a file) something in your already existing file.
+11.cat (older file name) > (newer file name) = The 'cat' command can be used to copy the content of a file into another file.
